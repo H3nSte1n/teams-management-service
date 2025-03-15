@@ -57,7 +57,7 @@ dependencies {
     implementation "io.ktor:ktor-auth-jwt:$ktor_version"
     implementation "com.github.papsign:Ktor-OpenAPI-Generator:-SNAPSHOT"
     implementation "org.mindrot:jbcrypt:0.4"
-    implementation "com.auth0:java-jwt:3.12.1"
+    implementation "com.auth0:java-jwt:3.19.4"
     implementation "khttp:khttp:1.0.0"
 
     //environment variables
